@@ -17,3 +17,19 @@
 	  
   }
 ?>
+<br>
+
+<?php
+ 
+  for ( $i = 1; $i<=$age; $i++ ) {
+      echo $i;
+   }
+?>
+<br>
+<?php
+
+ //echo date("d/m/Y G:i");
+ echo "Today is " .date("d.Y H:m");
+
+
+?>
