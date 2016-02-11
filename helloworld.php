@@ -6,4 +6,14 @@
 //show code to browser
    echo $first_name." ".$last_name;
   
+  $age=5;
+  if($age<=6){
+	  echo "  You can sleep at lunchtime";
+	  
+	  
+  }else {
+	  
+	  echo "Nope";
+	  
+  }
 ?>
